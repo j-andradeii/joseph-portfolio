@@ -40,7 +40,6 @@ const projects: Project[] = [
     projectUrl: 'https://cebuanolanguagecafe.com/'
   },
 ];
-
 export const PortfolioPage: React.FC = () => {
   return (
     <div className="min-h-screen">
